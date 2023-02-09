@@ -38,7 +38,7 @@ Phải có 1 mục tiêu thôi, Software Architect nào! Gửi tặng bản thâ
        
        * KHÔNG AI DẠY BẢN HỌC MỘT CÁCH MIỄN PHÍ VÀ DÙ CÓ DẠY BẠN HỌC ĐI CHĂNG NỮA THÌ TIẾP THU KIẾN THỨC ĐÓ LÀ CHUYỆN CỦA BẠN QUYẾT ĐỊNH. 
        
-       - Câu nói rất rõ nghĩa đấy. Suy nghĩ sâu đi, mà thêm câu cho đỡ bỡ ngỡ này, dù nói thêm nghĩa là câu trên không đủ ý xD, úi cây kim trong bọc lòi 
+       - Câu nói rất rõ nghĩa đấy. Suy nghĩ sâu đi, mà thêm câu cho đỡ bỡ ngỡ này.... nói thêm nghĩa là câu trên không đủ ý xD, úi cây kim trong bọc lòi 
        ra rồi.
        
    2. Câu nói ở trên còn thiếu 1 ý quan trọng để quyết định động lực cho việc tự học nữa:
