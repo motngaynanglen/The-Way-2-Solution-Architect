@@ -41,7 +41,7 @@ Phải có 1 mục tiêu thôi, Software Architect nào! Gửi tặng bản thâ
        - Câu nói rất rõ nghĩa đấy. Suy nghĩ sâu đi, mà thêm câu cho đỡ bỡ ngỡ này, dù nói thêm nghĩa là câu trên không đủ ý xD, úi cây kim trong bọc lòi 
        ra rồi.
        
-    2. Câu nói ở trên còn thiếu 1 ý quan trọng để quyết định động lực cho việc tự học nữa: 
+   2. Câu nói ở trên còn thiếu 1 ý quan trọng để quyết định động lực cho việc tự học nữa:
  
        * THỜI GIAN KHÔNG ĐỢI BẠN, ĐỐI THỦ CỦA BẠN, CUỘC ĐỜI BẠN CŨNG THẾ. NẾU BẠN DỪNG LẠI TRONG MỘT LÚC, TRONG CUỘC ĐỜI SẼ LUÔN CÓ NHỮNG NGƯỜI SẼ VƯỢT
        QUA BẠN VÀO THỜI GIAN ĐẤY. AI CŨNG HỌC, CHẲNG LẼ BẠN KHÔNG?
