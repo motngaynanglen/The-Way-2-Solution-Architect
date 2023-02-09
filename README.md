@@ -34,13 +34,13 @@ Phải có 1 mục tiêu thôi, Software Architect nào! Gửi tặng bản thâ
        công nghệ đó cũng cần nền tảng từ những thứ gọi là "nền tảng" để phát triển mà! Học chúng đi, chúng có thể sẽ bị thay thế, nhưng biết, hiểu
        những nền tảng đó không và sẽ không bao giờ được nói rằng: "dư thừa".
        
-       - Học rồi đó, nhưng phải có TỰ HỌC. Đừng nói là phải giải thích luôn cơ đấy. À mà chắc chắn phải giải thích rồi, mình hiểu bản thân mình mà hahah.
+   1. Học rồi đó, nhưng phải có TỰ HỌC. Đừng nói là phải giải thích luôn cơ đấy. À mà chắc chắn phải giải thích rồi, mình hiểu bản thân mình mà hahah.
        
           * KHÔNG AI DẠY BẢN HỌC MỘT CÁCH MIỄN PHÍ VÀ DÙ CÓ DẠY BẠN HỌC ĐI CHĂNG NỮA THÌ TIẾP THU KIẾN THỨC ĐÓ LÀ CHUYỆN CỦA BẠN QUYẾT ĐỊNH. 
        
        - Câu nói rất rõ nghĩa đấy. Suy nghĩ sâu đi, mà thêm câu cho đỡ bỡ ngỡ này, dù nói thêm nghĩa là câu trên không đủ ý xD, úi cây kim trong bọc lòi 
        ra rồi.
- .     - Câu nói ở trên còn thiếu 1 ý quan trọng để quyết định động lực cho việc tự học nữa: 
+    2. Câu nói ở trên còn thiếu 1 ý quan trọng để quyết định động lực cho việc tự học nữa: 
  
           * THỜI GIAN KHÔNG ĐỢI BẠN, ĐỐI THỦ CỦA BẠN, CUỘC ĐỜI BẠN CŨNG THẾ. NẾU BẠN DỪNG LẠI TRONG MỘT LÚC, TRONG CUỘC ĐỜI SẼ LUÔN CÓ NHỮNG NGƯỜI SẼ VƯỢT
           QUA BẠN VÀO THỜI GIAN ĐẤY. AI CŨNG HỌC, CHẲNG LẼ BẠN KHÔNG?
